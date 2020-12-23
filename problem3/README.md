@@ -6,4 +6,6 @@
 
 ### Solution
 
-Queue is 
+Queue is trucks on bridge. Truck can't be loaded '1. over wieght', '2. biidge full'
+
+Every time update it, so this is slow algorthm.
